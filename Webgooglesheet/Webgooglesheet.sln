@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webgooglesheet", "Webgooglesheet\Webgooglesheet.csproj", "{F3D24F6D-BFF8-4BCE-BFEC-861507A0A40D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3D24F6D-BFF8-4BCE-BFEC-861507A0A40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D24F6D-BFF8-4BCE-BFEC-861507A0A40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D24F6D-BFF8-4BCE-BFEC-861507A0A40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D24F6D-BFF8-4BCE-BFEC-861507A0A40D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B74715-94FC-4810-AC03-B3118E0687A1}
+	EndGlobalSection
+EndGlobal

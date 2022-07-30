@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ag_tigger", "ag_tigger.csproj", "{CF3E277D-6674-44F5-ACDA-D62B1D7F1008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF3E277D-6674-44F5-ACDA-D62B1D7F1008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3E277D-6674-44F5-ACDA-D62B1D7F1008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3E277D-6674-44F5-ACDA-D62B1D7F1008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3E277D-6674-44F5-ACDA-D62B1D7F1008}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3F1A90E-CE0D-47E2-BE42-7A04AD1B7204}
+	EndGlobalSection
+EndGlobal
