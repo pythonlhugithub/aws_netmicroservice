@@ -1,0 +1,10 @@
+#services:
+  
+  # cloud
+  # image:
+  # ....
+
+  # envorinment:
+  # ports:
+  # volumes:
+docker -compose up

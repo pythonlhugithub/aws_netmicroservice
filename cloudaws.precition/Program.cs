@@ -14,6 +14,14 @@ namespace cloudaws.precition
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+
+var app=builder.Build();
+
+app.mapGet('/observe/zip', (string zip, [FromQuery] int? days))>{
+return result.ok(zip);
+
+};  //fromquery use orm to mapping object in c# class with tabel column...
+
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
@@ -24,3 +32,8 @@ namespace cloudaws.precition
                 });
     }
 }
+
+
+//create dataaccess so create dbconext (map datbase)
+//code first to create db abd tables in database
+//
